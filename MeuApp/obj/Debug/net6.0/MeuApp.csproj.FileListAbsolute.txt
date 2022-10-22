@@ -1,0 +1,15 @@
+E:\Projetos\MeuApp\bin\Debug\net6.0\MeuApp.exe
+E:\Projetos\MeuApp\bin\Debug\net6.0\MeuApp.deps.json
+E:\Projetos\MeuApp\bin\Debug\net6.0\MeuApp.runtimeconfig.json
+E:\Projetos\MeuApp\bin\Debug\net6.0\MeuApp.dll
+E:\Projetos\MeuApp\bin\Debug\net6.0\MeuApp.pdb
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.csproj.AssemblyReference.cache
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfoInputs.cache
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfo.cs
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.csproj.CoreCompileInputs.cache
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.dll
+E:\Projetos\MeuApp\obj\Debug\net6.0\refint\MeuApp.dll
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.pdb
+E:\Projetos\MeuApp\obj\Debug\net6.0\MeuApp.genruntimeconfig.cache
+E:\Projetos\MeuApp\obj\Debug\net6.0\ref\MeuApp.dll
