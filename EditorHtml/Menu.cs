@@ -1,12 +1,10 @@
-
-
 namespace EditorHtml
 {
     public static class Menu
     {
         const int lagura = 100;
         const int altura = 10;
-        public static void show()
+        public static void Show()
         {
             DrawScreen();
             WriteOption();
@@ -16,6 +14,9 @@ namespace EditorHtml
         }
         public static void DrawScreen()
         {
+            Console.Clear();
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Clear();
             LinhaTraco();
             LinhaEspaco();
@@ -42,14 +43,15 @@ namespace EditorHtml
         {
             switch (option)
             {
-                case 1: Console.WriteLine("Editor"); break;
+                case 1: Editor.Show(); break;
                 case 2: Console.WriteLine("View"); break;
-                case 3:
+                case 0:
                     {
                         Console.Clear();
                         System.Environment.Exit(0);
                         break;
                     }
+                default: Show(); break;
             }
         }
         private static void LinhaTraco()
@@ -73,7 +75,5 @@ namespace EditorHtml
                 Console.Write("\n");
             }
         }
-
-
     }
 }
