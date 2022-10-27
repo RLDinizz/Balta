@@ -1,11 +1,10 @@
 ﻿
-namespace EditorHtml
+namespace EditorHtml;
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Menu.Show();
-        }
+        Menu.Show();
     }
 }
